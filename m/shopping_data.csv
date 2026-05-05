@@ -1,0 +1,11 @@
+UserID,TimeSpent (mins),Clicks,Gender,Age,DeviceType,PagesVisited,CartValue ($),PurchaseIntent
+1,85,35,Male,25,Mobile,22,450,Yes
+2,35,18,Female,40,Desktop,10,200,No
+3,110,50,Female,30,Tablet,30,380,Yes
+4,15,5,Male,20,Mobile,5,70,No
+5,70,29,Female,45,Mobile,15,300,Yes
+6,90,40,Male,35,Desktop,25,520,Yes
+7,10,3,Female,22,Tablet,3,40,No
+8,55,22,Male,28,Mobile,12,240,No
+9,100,45,Female,19,Desktop,28,480,Yes
+10,20,9,Male,50,Tablet,8,80,No
